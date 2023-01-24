@@ -1,9 +1,3 @@
-<script>
-    /** @type {import('./$types').PageServerData} */
-    export let data;
-</script>
-{data}
-
 https://github.com/mattjennings/sveltekit-blog-template
 
 <br/>

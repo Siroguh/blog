@@ -10,5 +10,11 @@ const config = {
     }),
     sveltekit(),
   ],
+    // allows vite access to ./posts
+  server: {
+    fs: {
+      allow: ['./']
+    }
+  }
 };
 export default config;

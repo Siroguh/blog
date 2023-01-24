@@ -5,22 +5,6 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true,
-        "pnpm-lock.yaml": true,
-        "playwright.config.js": true,
-        "package.json": true,
-        ".prettierrc": true,
-        ".prettierignore": true,
-        ".npmrc": true,
-        ".gitignore": true,
-        ".eslintrc.cjs": true,
-        ".eslintignore": true,
-        ".env": true,
-        "tests": true,
-        "node_modules": true,
-        ".vscode": true,
-        ".svelte-kit": true,
-        "svelte.config.js": true,
-        "vite.config.js": true
+        "**/Thumbs.db": true
     }
 }
