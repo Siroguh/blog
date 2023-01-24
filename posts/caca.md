@@ -16,9 +16,36 @@ Sin cerdo no hay jamón, y es que fueron los fenicios, quienes introdujeron el c
 
 Sea como fuere, cuando los romanos llegaron a la Península ya eran muchos los pueblos íberos y celtas que conocían y consumían el jamón. Para estos pueblos prerromanos, el cerdo era un objeto de culto, con el que comerciaban, siempre tratado con sal para su conservación.
 
-```md
-![penguins](./penguins.mp4)
-```
+![yeets](./1.png)
 
-![penguins](./1.png)
+**Imagen 1. Verraco de Gallegos de Argañán (Salamanca). Museo Provincial de Salamanca.**
+
+**ÉPOCA ROMANA**
+
+Tras desembarcar en la península, los romanos incorporaron las tradiciones locales, quedando prendados de los manjares íberos. Tenían especial prestigio el jamón de Pomeipoles (Pamplona) y de Tarraco (Tarragona), donde se encontró un jamón fosilizado con unos 2 mil años de antigüedad.
+
+Podemos encontrar referencias a los métodos de elaboración, donde indican que el jamón se debía salar al menos 12 días y que el proceso se llevaba a cabo por manos expertas «vicarius supra cenas». Su precio no era barato y era consumido por la gente adinerada en los banquetes, al principio como *gustatio* para abrir el apetito, y también al final, en la *secunda mensa*, para estimular la ingesta de bebida.
+
+Tal fue la importancia de la exportación de ajamones desde la península a todo el imperio que, Augusto y Agripa acuñaron monedas romanas con la forma de una punta de jamón.
+
+![yeets](./2.jpg)
+
+**Imagen 2. *Imagen de una moneda alusiva al comercio del jamón en tiempos de Augusto y Agripa, según investigaciones realizadas por el profesor de la Universidad de Granada, Juan González Blanco.*** 
+
+***Desde la Edad Media…***
+Con el avance de la reconquista en los siglos XII y XIII, los nuevos pobladores se asentaron gracias a la ganadería porcina, estableciéndose además piaras de cerdos semisalvajes en las dehesas y encinares. La matanza del cerdo y la posterior elaboración de embutidos como el jamón, se populariza las aldeas de toda nuestra geografía. Son numerosas las citas en la literatura. 
+
+Poco a poco, la cría y el sacrificio se empiezan a extender entre los campesinos y se comienza a popularizar la elaboración de jamones y embutidos en todos los pueblos y aldeas de nuestra geografía. Nuestros abuelos y muchos de nosotros, somos la herencia viva de esta tradición. Lope de Vega, Quevedo o Cervantes, son algunos de los escritores que hablan de las virtudes del jamón en sus libros: *“huesos mondos de jamón, que si no se dejaban mascar, no defendían el ser chupados”.* El Quijote, Cervantes
+
+![yeets](./3.jpg)
+
+**Imagen 3. Imágenes representativas de la matanza tradicional del cerdo durante la Edad Media**
+
+***En la Actualidad***
+Ya desde el siglo XX, el consumo de jamón y otros embutidos provenientes del cerdo se ha generalizado. La industrialización y el avance en las tecnologías nos ha permitido conocer los factores que intervienen en el proceso de curado y maduración del jamón y se ha convertido un alimento presente en todas las casas. Un hecho destacable ha sido la divergencia de dos tipos de jamones, el presente en el supermercado, procedente de cerdos de menos peso y de menor calidad y el que podemos encontrar en charcuterías, jamón, más tradicional, proveniente de cerdos más grandes y con curaciones más lentas. 
+
+**Nosotros por ejemplo, apostamos por cerdos grasos y elaboramos un jamón al estilo de Pomeipoles (Pamplona), con buena cobertura de tocino, curaciones lentas y el punto justo de sal, que conseguimos con el salado a mano en pilas.**
+
+
+
 
