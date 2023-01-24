@@ -1,6 +1,6 @@
 ---
 title: Lorem Ipsum
-date: {}
+date: 2022-01-02T00:00:00.000Z
 published: true
 ---
 # **Historia del Jamón en España**
