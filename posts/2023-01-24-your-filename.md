@@ -6,4 +6,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 QUE
 
-yeets![yeets]({{site.baseurl}}/posts/Captura de pantalla 2022-12-12 192348.png)
+yeets![yeets](/posts/Captura de pantalla 2022-12-12 192348.png)
