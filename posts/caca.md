@@ -1,5 +1,6 @@
 ---
-date: 2022-01-02T00:00:00.000Z
+title: Lorem Ipsum
+date: 2022-01-02
 ---
 ## A New Post
 
