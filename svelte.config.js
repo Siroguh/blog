@@ -20,3 +20,4 @@ const config = {
   extensions: ['.svelte', ...mdsvexConfig.extensions]
 }
 export default config;
+
