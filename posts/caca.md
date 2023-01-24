@@ -16,7 +16,7 @@ Sin cerdo no hay jamón, y es que fueron los fenicios, quienes introdujeron el c
 
 Sea como fuere, cuando los romanos llegaron a la Península ya eran muchos los pueblos íberos y celtas que conocían y consumían el jamón. Para estos pueblos prerromanos, el cerdo era un objeto de culto, con el que comerciaban, siempre tratado con sal para su conservación.
 
-![yeet](/posts/1.png)
+![yeet](./posts/1.png)
 
 **Imagen 1. Verraco de Gallegos de Argañán (Salamanca). Museo Provincial de Salamanca.**
 
@@ -28,7 +28,7 @@ Podemos encontrar referencias a los métodos de elaboración, donde indican que 
 
 Tal fue la importancia de la exportación de ajamones desde la península a todo el imperio que, Augusto y Agripa acuñaron monedas romanas con la forma de una punta de jamón.
 
-![cosas](/posts/2.jpg)
+![cosas](./posts/2.jpg)
 
 
 **Imagen 2. *Imagen de una moneda alusiva al comercio del jamón en tiempos de Augusto y Agripa, según investigaciones realizadas por el profesor de la Universidad de Granada, Juan González Blanco.*** 
@@ -38,7 +38,7 @@ Con el avance de la reconquista en los siglos XII y XIII, los nuevos pobladores 
 
 Poco a poco, la cría y el sacrificio se empiezan a extender entre los campesinos y se comienza a popularizar la elaboración de jamones y embutidos en todos los pueblos y aldeas de nuestra geografía. Nuestros abuelos y muchos de nosotros, somos la herencia viva de esta tradición. Lope de Vega, Quevedo o Cervantes, son algunos de los escritores que hablan de las virtudes del jamón en sus libros: *“huesos mondos de jamón, que si no se dejaban mascar, no defendían el ser chupados”.* El Quijote, Cervantes
 
-![er](/posts/3.jpg)
+![er](./posts/3.jpg)
 
 
 **Imagen 3. Imágenes representativas de la matanza tradicional del cerdo durante la Edad Media**
