@@ -1,15 +1,28 @@
 <script>
-	import { page } from "$app/stores";
+	import { page } from "$app/stores"
     const navs = [ { title: "tienda", href: "/tienda", },/*{title: "inicio",href: "/",}, */{ title: "productos", href: "/productos", }, { title: "el secadero", href: "/el-secadero", }, { title: "servicios", href: "/servicios", }, { title: "contacto", href: "/contacto", }, { title: "blog", href: "/blog", }, ]
-	$: routeId = $page.route.id;
+	$: routeId = $page.route.id
 
-	import { fade } from 'svelte/transition';
+	import { fade } from 'svelte/transition'
 
-	import MediaQuery from "$lib/components/technical/MediaQuery.svelte";
-    import { Hamburger } from 'svelte-hamburgers';
+	import MediaQuery from "$lib/components/technical/MediaQuery.svelte"
+    import { Hamburger } from 'svelte-hamburgers'
     let open;
 
-    import Cerdovillarroya from "$lib/components/svg/cerdovillarroya.svelte";
+    import Cerdovillarroya from "$lib/components/svg/cerdovillarroya.svelte"
+    import MoonIcon from 'heroicons-svelte/solid/MoonIcon.svelte'
+    import SunIcon from 'heroicons-svelte/solid/SunIcon.svelte'
+
+    import { browser } from '$app/environment'
+
+    let isDarkMode = browser ? Boolean(document.documentElement.classList.contains('dark')) : true
+
+    function disableTransitionsTemporarily() {
+    document.documentElement.classList.add('[&_*]:!transition-none')
+    window.setTimeout(() => {
+        document.documentElement.classList.remove('[&_*]:!transition-none')
+    }, 0)
+    }   
 </script>
 
 <MediaQuery query="(max-width: 799px)" let:matches>
@@ -18,6 +31,27 @@
         <nav class='navsmall'>
             <div class='navsmall_container'>
                 <div class='cerdo'><a href="/"><Cerdovillarroya/></a></div>
+                <button
+                type="button"
+                role="switch"
+                aria-label="Toggle Dark Mode"
+                aria-checked={isDarkMode}
+                on:click={() => {
+                  isDarkMode = !isDarkMode
+                  localStorage.setItem('isDarkMode', isDarkMode.toString())
+        
+                  disableTransitionsTemporarily()
+        
+                  if (isDarkMode) {
+                    document.querySelector('html').classList.add('dark')
+                  } else {
+                    document.querySelector('html').classList.remove('dark')
+                  }
+                }}
+              >
+                <MoonIcon class="hidden text-zinc-500 dark:block" />
+                <SunIcon class="block text-zinc-400 dark:hidden" />
+              </button>
                 <div class='hamburguer'><Hamburger bind:open type='vortex' --color="rgb(245, 59, 51)" --active-color='white' --hover-opacity='0.7' --hover-opacity-active='1'/></div>
             </div>
             {#if open}
@@ -29,6 +63,7 @@
                 </ul>
             </div>
             {/if}
+            <slot/>
         </nav>
     </header>
 	{/if}
@@ -41,6 +76,7 @@
                     <li><a {href} class:active={routeId == href} {title} on:click={() => (open = !open)}>{title}</a></li>
                 {/each}
 			</ul>
+            <slot/>
 		</nav>
 	{/if}
 </MediaQuery>
@@ -57,6 +93,14 @@
         height: 100px;
         position: relative;
         background-color: var(--white-color);
+        & button{
+            position: absolute;
+            z-index: 10;
+            width: 25px;
+            height: 25px;
+            top: 36px;
+            right: 90px;
+        }
         & .cerdo{
             padding-bottom: 10px;
         }

@@ -6,7 +6,7 @@
 export const website = 'https://sveltekit-blog-template.vercel.app'
 
 export const firstName = 'Jordan'
-export const lastName = 'Doe'
+export const lastName = 'Yeet'
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
