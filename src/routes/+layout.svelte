@@ -8,7 +8,7 @@
 
 <div class="app">
 	<Nav/>
-	<div>
+	<div class='app_container'>
         <slot />
   	</div>
 	<Footer/>
@@ -20,9 +20,10 @@
 		display: flex;
 		flex-direction: column;
 		overflow-x: hidden;
-		& div{
+		&_container{
 			display: flex;
 			flex: 1 0 auto;
+			margin-top: 100px;
 		}
   	}
 	/*
